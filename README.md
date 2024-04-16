@@ -30,4 +30,5 @@ To clone and run the solutions in this repository, follow these steps:
 2. **Run the JavaScript files**:
 The JavaScript files are located in the dist folder.
 To run a specific file, use:
+   ```bash
     node ./dist/filename.js
